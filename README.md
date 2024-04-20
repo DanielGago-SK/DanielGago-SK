@@ -1,9 +1,9 @@
 ### O mne  
 
-Som začínajúci kodér/programátor, mám to zatiaľ ako koníček.  
+Som začínajúci kodér/programátor, mám to zatiaľ dlhodobo len ako koníček.  
 
 Hlavné oblasti o ktoré sa zaujímam:  
-- tvorba webu (ovládam základy html, CSS, JavaScriptu, jQuery), ale v budúcnosti ma lákajú skôr webové aplikácie ako samotná tvorba stránok (aj preto som vytvoril tutoriály ktoré tu mám - je tam aktívny obsah)  
+- tvorba webu (ovládam základy html, CSS, JavaScript, PHP, SQL), ale v budúcnosti ma lákajú skôr (webové) aplikácie ako samotná tvorba stránok (aj preto som vytvoril tutoriály ktoré tu mám - je tam aktívny obsah)  
 - tvorba programov pre mikrokontroléry (malá automatizácia - Arduino - ESP, + mám aj základný všeobecný prehľad o elektronike)   
 
 Mám aj vlastný (mňou nakódovaný) blog: https://danielgago.sk
